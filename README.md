@@ -17,4 +17,4 @@ For a detailed analysis and visualizations, please refer to the attached Jupyter
 For any inquiries or feedback regarding this project, please contact:
 
 LinkedIn: <a href="https://www.linkedin.com/in/swathika-g-614637235/">SWATHIKA G</a><br>
-Email: bhuvivbhuvi2004@gmail.com
+Email: gswathika43@gmail.com
