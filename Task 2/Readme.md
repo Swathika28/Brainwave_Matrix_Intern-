@@ -55,5 +55,40 @@ These steps outline the full pipeline
 ## Program:
 ```
 ! pip install kaggle
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
 
+```
+```
+#api to fetch from kaggle
+!kaggle datasets download -d kazanova/sentiment140
+#extracting compressed file
+from zipfile import ZipFile
+dataset='/content/sentiment140.zip'
+
+with ZipFile(dataset, 'r') as zip:
+  zip.extractall()
+  print('The dataset is extracted')
+```
+```
+import numpy as np
+import pandas as pd
+import re
+from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+import nltk
+nltk.download('stopwords')
+```
+```
+#printing the stopwords in english
+print(stopwords.words('english'))
+#loading data from csv to pandas dataframe
+twitter_data=pd.read_csv('/content/training.1600000.processed.noemoticon.csv',encoding='ISO-8859-1')
+```
+"C:\Users\swathika\Pictures\Screenshots\Screenshot 2024-09-25 180904.png"
 ```
