@@ -11,17 +11,17 @@ matplotlib,
 seaborn
 
 ## Dataset:
-Dataset Name: Sentiment140
-Size: Contains 1.6 million labeled tweets.
-Purpose: Used for sentiment analysis to classify tweets as positive or negative.
-Columns:
-Polarity: Sentiment label (0 for negative, 4 for positive).
-Text: The tweet content.
-Tweet ID: Unique identifier for each tweet.
-Date: The date and time when the tweet was posted.
-Query: Search query used (often empty).
-Username: The username of the person who posted the tweet.
-Usage: Primarily focused on analyzing the tweet text and sentiment labels for classification tasks.
+#### Dataset Name: Sentiment140
+#### Size: Contains 1.6 million labeled tweets.
+#### Purpose: Used for sentiment analysis to classify tweets as positive or negative.
+#### Columns:
+##### Polarity: Sentiment label (0 for negative, 4 for positive).
+##### Text: The tweet content.
+##### Tweet ID: Unique identifier for each tweet.
+##### Date: The date and time when the tweet was posted.
+##### Query: Search query used (often empty).
+##### Username: The username of the person who posted the tweet.
+#### Usage: Primarily focused on analyzing the tweet text and sentiment labels for classification tasks.
 
 ## Steps:
 ### Dataset Acquisition:
