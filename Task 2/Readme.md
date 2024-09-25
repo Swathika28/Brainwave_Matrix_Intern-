@@ -272,28 +272,28 @@ plt.show()
 ![Screenshot 2024-09-25 183341](https://github.com/user-attachments/assets/0930edd1-8316-4630-bdd4-8a95ba10d32b)
 
 ## Applications:
-Social Media Monitoring:
+### Social Media Monitoring:
 
 Analyze public sentiment on platforms like Twitter, Facebook, and Instagram to understand opinions about brands, products, or events in real time.
-Customer Feedback Analysis:
+### Customer Feedback Analysis:
 
 Automatically categorize customer reviews, feedback, and surveys into positive or negative sentiments to improve customer service and product development.
-Market Research:
+### Market Research:
 
 Gain insights into market trends and consumer attitudes by analyzing large volumes of text data, such as product reviews and comments.
-Brand Reputation Management:
+### Brand Reputation Management:
 
 Track and respond to changes in brand perception by analyzing mentions of a brand online, helping businesses to manage their public image.
-News and Media Analysis:
+### News and Media Analysis:
 
 Analyze sentiment in news articles, blogs, and forums to understand public response to news events, policy changes, or product launches.
-Product Analysis and Improvement:
+### Product Analysis and Improvement:
 
 Identify areas for product improvement by analyzing negative feedback and complaints, guiding businesses to make data-driven enhancements.
-Political Sentiment Analysis:
+### Political Sentiment Analysis:
 
 Analyze public opinion on political candidates, policies, or events to gauge public mood and predict election outcomes.
-Stock Market Prediction:
+### Stock Market Prediction:
 
 Use sentiment analysis on financial news and tweets to gauge market sentiment, which can help in making trading decisions.
 
