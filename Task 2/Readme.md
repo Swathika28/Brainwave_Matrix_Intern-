@@ -90,5 +90,5 @@ print(stopwords.words('english'))
 #loading data from csv to pandas dataframe
 twitter_data=pd.read_csv('/content/training.1600000.processed.noemoticon.csv',encoding='ISO-8859-1')
 ```
-"C:\Users\swathika\Pictures\Screenshots\Screenshot 2024-09-25 180904.png"
+![](C:\Users\swathika\Pictures\Screenshots\Screenshot 2024-09-25 180904.png)
 ```
